@@ -24,6 +24,7 @@ Quality is built into every step: pull requests are kept small (≤ 400 lines wh
 | [Release & Deployment Guide](octoacme-release-and-deployment.md) | Release types, deployment checklist, rollback playbook |
 | [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) | Retrospective structure, action item tracking, improvement culture |
 | [Roles and Personas](octoacme-roles-and-personas.md) | Detailed responsibilities and communication patterns for each role |
+| [Role Engagement Checklist](octoacme-role-engagement-checklist.md) | When to involve each persona across all five lifecycle phases |
 
 ---
 _This README is intended to help contributors, PMs, and stakeholders quickly find OctoAcme's main process references. Closes #2._

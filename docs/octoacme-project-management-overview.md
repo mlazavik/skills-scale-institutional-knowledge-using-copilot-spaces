@@ -20,6 +20,8 @@ Applies to all cross-functional projects that deliver product features, services
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
 
+For all roles and extended personas (UX Designer, QA Lead, Technical Writer, Customer Support/Success, Security Lead, Business Analyst) see [Roles and Personas](octoacme-roles-and-personas.md). For a per-phase engagement guide, see [Role Engagement Checklist](octoacme-role-engagement-checklist.md).
+
 ## Key Artifacts
 - Project Charter / One-pager
 - Roadmap and Release Plan
